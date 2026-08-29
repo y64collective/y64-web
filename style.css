@@ -45,12 +45,12 @@ p {
 
 .discord:hover {
   color: #ededed;
-  border-bottom-color: #00aaaa;
+  border-bottom-color: #5555ff;
 }
 
 .cursor {
   margin-left: 0.1em;
-  color: #00aaaa;
+  color: #5555ff;
   animation: blink 1.1s steps(1) infinite;
 }
 
